@@ -7,3 +7,4 @@
 - Charter abstract must explain that the document governs how the Mahajrya Buddhist tradition (spelling confirmed: Mahajrya) is created and operated.
 - When I say “show” a document or the notes, use the read command to output the raw file contents exactly as stored (including HTML tags).
 - Never read documents from GitHub when asked to “show” something; always read the current files from the Cursor cloud workspace even if nothing has been committed.
+- Track document styles: `charter.txt` is a legal document; `dvaviṃśati.txt` is a technical guide.
