@@ -1,1 +1,10 @@
- 
+- Using speech-to-text on Android app, Android keyboard, and desktop via Cursor to dictate instructions for creating remaining project files (mixing English and Sanskrit terms).
+- Notes are stored in Cursor's cloud workspace; I will decide when to commit everything to GitHub.
+- Will be creating legal documents saved under `/documents`; when asked to name/create one, generate it there.
+- Each document must use ultra-basic HTML only (H1 for document title, H2 for chapter/article titles, minimal formatting, `<b>` for bold, simple lists/tabs).
+- When adding new chapters, insert them at the most logical place in the document (not always appended) to preserve clear legal structure.
+- Speech-to-text may mishear “siddhi/siddhis” as “cities” or similar; interpret accordingly when drafting content.
+- Charter abstract must explain that the document governs how the Mahajrya Buddhist tradition (spelling confirmed: Mahajrya) is created and operated.
+- When I say “show” a document or the notes, use the read command to output the raw file contents exactly as stored (including HTML tags).
+- Never read documents from GitHub when asked to “show” something; always read the current files from the Cursor cloud workspace even if nothing has been committed.
+- Track document styles: `charter.txt` is a legal document; `dvavimsati.txt` is a technical guide.

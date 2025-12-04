@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Organization Charter</title>
+</head>
+<body>
+<h1>Organization Charter</h1>
+
+<h2>Abstract</h2>
+<p>This charter defines the rules for establishing, guiding, and operating the Mahajrya Buddhist tradition, ensuring shared governance, doctrinal cohesion, and practical procedures for every Sangha function.</p>
+</body>
+</html>
