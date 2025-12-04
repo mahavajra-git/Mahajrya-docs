@@ -1,4 +1,4 @@
-- Using speech-to-text on Android app, Android keyboard, and desktop via Cursor to dictate instructions for creating remaining project files.
+- Using speech-to-text on Android app, Android keyboard, and desktop via Cursor to dictate instructions for creating remaining project files (mixing English and Sanskrit terms).
 - Notes are stored in Cursor's cloud workspace; I will decide when to commit everything to GitHub.
 - Will be creating legal documents saved under `/documents`; when asked to name/create one, generate it there.
 - Each document must use ultra-basic HTML only (H1 for document title, H2 for chapter/article titles, minimal formatting, `<b>` for bold, simple lists/tabs).
