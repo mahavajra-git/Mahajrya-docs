@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>Organization Charter: Dvavimsati</title>
+</head>
+<body>
+<h1>Organization Charter: Dvavimsati</h1>
+
+<h2>Introduction</h2>
+<p>This introductory chapter states that the organization studies twenty-two guiding capabilities and adapts them to practical governance, documentation, and accountability.</p>
+
+<h2>Anima</h2>
+<p>This chapter outlines the ability to perceive subtle details and mandates reviews for the smallest operational decisions.</p>
+
+<h2>Mahima</h2>
+<p>This chapter elevates long-term vision, requiring leadership to assess how every action scales to the largest possible consequence.</p>
+
+<h2>Garima</h2>
+<p>This chapter codifies steadiness and gravity, assigning custodianship roles to maintain continuity under pressure.</p>
+
+<h2>Laghima</h2>
+<p>This chapter introduces agility policies so teams can shed unnecessary process and move lighter when urgency demands.</p>
+
+<h2>Prapti</h2>
+<p>This chapter defines reach and access, clarifying authority for securing resources across jurisdictions.</p>
+
+<h2>Prakamya</h2>
+<p>This chapter records the power of fulfillment, describing how directives become enacted and verified.</p>
+
+<h2>Ishitva</h2>
+<p>This chapter specifies sovereignty protocols that limit unilateral control while preserving decisive action.</p>
+
+<h2>Vashitva</h2>
+<p>This chapter establishes influence guidelines, ensuring persuasive power is transparent and accountable.</p>
+
+<h2>Kamarutatva</h2>
+<p>This chapter protects freedom of purposeful desire, documenting how new initiatives receive charter approval.</p>
+
+<h2>Anumimatvam</h2>
+<p>This chapter describes consent-based authority, detailing the approvals required before invoking exceptional powers.</p>
+
+<h2>Sravana Darshanam</h2>
+<p>This chapter unites listening and observation standards, mandating record-keeping for hearings and audits.</p>
+
+<h2>Manah Javah</h2>
+<p>This chapter emphasizes speed of mind, providing procedures for rapid analysis without sacrificing diligence.</p>
+
+<h2>Trikala</h2>
+<p>This chapter encodes past, present, and future review cycles for all strategic plans.</p>
+
+<h2>Samartha</h2>
+<p>This chapter documents capability benchmarks so teams can demonstrate competency before assuming mandates.</p>
+
+<h2>Vishwabal</h2>
+<p>This chapter asserts global strength, defining cross-border coordination clauses.</p>
+
+<h2>Avalokitesh</h2>
+<p>This chapter preserves compassionate oversight, describing ombud processes for grievances.</p>
+
+<h2>Pravacana</h2>
+<p>This chapter ensures clear proclamation, standardizing how rulings and updates are published.</p>
+
+<h2>Karmika</h2>
+<p>This chapter regulates actionable labor, specifying ethical execution of directives.</p>
+
+<h2>Buddhana</h2>
+<p>This chapter encourages awakened discernment, requiring reflective assessments before major decisions.</p>
+
+<h2>Nirmarupa</h2>
+<p>This chapter defines formless adaptability, guiding how structures may transform without losing purpose.</p>
+
+<h2>Sadanavina</h2>
+<p>This chapter safeguards perpetual renewal, mandating continuous improvement cycles.</p>
+
+<h2>Mahajrya</h2>
+<p>This chapter concludes with a statement on great conduct, reaffirming that every chapter remains amendable when clarity or justice demands.</p>
+</body>
+</html>

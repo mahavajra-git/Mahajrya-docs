@@ -3,3 +3,4 @@
 - Will be creating legal documents saved under `/documents`; when asked to name/create one, generate it there.
 - Each document must use ultra-basic HTML only (H1 for document title, H2 for chapter/article titles, minimal formatting, `<b>` for bold, simple lists/tabs).
 - When adding new chapters, insert them at the most logical place in the document (not always appended) to preserve clear legal structure.
+- Speech-to-text may mishear “siddhi/siddhis” as “cities” or similar; interpret accordingly when drafting content.
