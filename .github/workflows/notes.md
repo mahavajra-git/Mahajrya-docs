@@ -5,3 +5,4 @@
 - When adding new chapters, insert them at the most logical place in the document (not always appended) to preserve clear legal structure.
 - Speech-to-text may mishear “siddhi/siddhis” as “cities” or similar; interpret accordingly when drafting content.
 - Charter abstract must explain that the document governs how the Mahajrya Buddhist tradition (spelling confirmed: Mahajrya) is created and operated.
+- When I say “show” a document or the notes, use the read command to output the raw file contents exactly as stored (including HTML tags).
