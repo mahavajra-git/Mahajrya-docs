@@ -2,3 +2,4 @@
 - Notes are stored in Cursor's cloud workspace; I will decide when to commit everything to GitHub.
 - Will be creating legal documents saved under `/documents`; when asked to name/create one, generate it there.
 - Each document must use ultra-basic HTML only (H1 for document title, H2 for chapter/article titles, minimal formatting, `<b>` for bold, simple lists/tabs).
+- When adding new chapters, insert them at the most logical place in the document (not always appended) to preserve clear legal structure.
