@@ -1,1 +1,2 @@
- 
+- Using speech-to-text on Android app, Android keyboard, and desktop via Cursor to dictate instructions for creating remaining project files.
+- Notes are stored in Cursor's cloud workspace; I will decide when to commit everything to GitHub.
